@@ -1,7 +1,5 @@
 body {
 	font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
             background-color: #D3A075;
 	
 
@@ -10,7 +8,7 @@ body {
 
 h1 {
   	text-align: center;
-  	padding: 20px;
+  	magrin-bottom: 10px;
   	color: #804A26;
 }
 
@@ -30,5 +28,16 @@ h2 {
 
 	text-align: center;
 
+}
+
+#coffee-container {
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-left: 150px;
+	padding-right: 150px;
+	background-color: rgba(255, 255, 255, 0.5);
+	margin-left: 150px;
+	margin-right: 150px;
 }
 
