@@ -18,7 +18,8 @@ h1 {
 
 
 h2 {
-        color: #333;
+        color: #98684F;
+	text-align: center;
 }
 
 
@@ -44,4 +45,48 @@ h2 {
 	margin-left: 150px;
 	margin-right: 150px;
 }
+
+#coffee-detail-container {
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding-top: 30px;
+	margin-top: 30px;
+	margin-bottom: 80px;
+	padding-bottom: 80px;
+	padding-left: 150px;
+	padding-right: 150px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#backButton {
+	    position: fixed;
+            left: 200px;
+            top: 120px;
+            background: none;
+            border: 2px solid #8B4513;
+            cursor: pointer;
+	    font-size: 16px; 
+            color: #8B4513;
+	    font-weight: bold;
+
+
+}
+
+
+
+
+a {
+	
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+
+}
+
+a:hover img {
+  border: 10px groove #d2a16a;  
+}
+
+
+
 
