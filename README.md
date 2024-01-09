@@ -6,6 +6,8 @@
 
 # Usage
 - Home page contains a list of coffees and when user click one it moves on to a detail page of the chosen coffee
+- Home page:
+<img width="1152" alt="Screenshot 2024-01-09 at 5 28 38 PM" src="https://github.com/SingLZ/CoffeeCatCafe/assets/125691222/487a7ee6-21ed-4f10-b1dc-1347d2945d7b">
 
 # Features
 - Descriptions of different types of coffees and the ingretdients needed to make them.
