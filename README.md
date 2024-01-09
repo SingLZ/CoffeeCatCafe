@@ -15,10 +15,10 @@
 - Email: sing.lixing@gmail.com
 
 # Acknowledgements
-- Used documentations
-    -https://docs.github.com/en/get-started
-    -https://www.javascripttutorial.net/javascript-fetch-api/
-    -https://www.geeksforgeeks.org/how-to-use-the-javascript-fetch-api-to-get-data/
+- Used documentations:
+https://docs.github.com/en/get-started
+https://www.javascripttutorial.net/javascript-fetch-api/
+https://www.geeksforgeeks.org/how-to-use-the-javascript-fetch-api-to-get-data/
 
 # Roadmap
 - Possible future plans includes updating procedures for making coffees and for users to share personal recipes. 
